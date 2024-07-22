@@ -1,4 +1,4 @@
-Tipo Titulo;Vencimento do Titulo;Mes Estoque;PU;Quantidade;Valor Estoque
+Tipo_Titulo;Vencimento _do_Titulo;Mês_Estoque;PU;Quantidade;Valor_Estoque
 Tesouro Prefixado;01/01/2025;01/06/2022;R$ 795,95;4.298.376;R$ 3.421.277.780,72
 Tesouro Selic;01/09/2024;01/06/2022;R$ 11.800,65;476.357;R$ 5.621.326.625,74
 Tesouro Selic;01/03/2025;01/06/2022;R$ 11.823,96;926.833;R$ 10.958.834.556,39
